@@ -39,11 +39,6 @@ Temporary Items
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # User-specific stuff
-<<<<<<< HEAD
-.idea
-.idea/
-=======
->>>>>>> 5808d13573d5c4a333c810857674a632aae6e674
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/**/usage.statistics.xml
